@@ -1,0 +1,94 @@
+
+---Downloaded files---
+The import files for: Loveme were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wedding
+Data file = C:\wamp64\www\wedding/wp-content/uploads/2024/01/demo-content-import-file_2024-01-23__09-33-50.xml
+Widget file = C:\wamp64\www\wedding/wp-content/uploads/2024/01/demo-widgets-import-file_2024-01-23__09-33-50.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "logo" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Widget Area : 
+
+Search - Search - Imported
+Categories - Categories - Imported
+Loveme: Recent Posts - Recent Posts - Imported
+Tag Cloud - Tags - Imported
+
+Footer Widget 1 : 
+
+Loveme: Text Widget - No Title - Imported
+
+Footer Widget 2 : 
+
+Loveme: Navigation - Information - Imported
+
+Footer Widget 3 : 
+
+Loveme: Text Widget - Address - Imported
+
+Footer Widget 4 : 
+
+Gallery - Photography - Imported
+
+service-sidebar : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Loveme: Navigation - Services - Imported to Inactive
+Loveme: Text Widget - No Title - Imported to Inactive
+
+
+
+------
+Codestar Framework files loaded.
+
+---ocdi/after_import---
+

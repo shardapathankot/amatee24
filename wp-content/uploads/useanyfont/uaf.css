@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'brush';
+					src: url('/wp-content/uploads/useanyfont/8731brush.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/8731brush.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.brush{font-family: 'brush' !important;}
+
+		
